@@ -1,6 +1,6 @@
 ## EDUCATION
 
-Punjab Engineering College (Deemed to be University) 
+### Punjab Engineering College (Deemed to be University) 
 
 B.Tech in Electronics & Communication Engineering (majors) Computer Science Engineering (minors) (CGPA: 8.86)
 
