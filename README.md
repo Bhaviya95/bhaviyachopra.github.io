@@ -1,4 +1,4 @@
-##EDUCATION
+## EDUCATION
 
 Punjab Engineering College (Deemed to be University) 
 
