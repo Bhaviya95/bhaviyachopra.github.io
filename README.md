@@ -9,7 +9,7 @@ Institute's Color, Certificate of Appreciation
 Relevant Coursework:
 Data Structures & Algorithms, OOPs, Operating Systems, Computer Networks 
 
-WORK EXPERIENCE
+## WORK EXPERIENCE
 
 Concentrix 
 
