@@ -1,10 +1,10 @@
-EDUCATION
+##EDUCATION
 Punjab Engineering College (Deemed to be University) 
 B.Tech in Electronics & Communication Engineering (majors) Computer Science Engineering (minors) (CGPA: 8.86)
 Organizations/Awards: Institute's Color, Certificate of Appreciation 
 Relevant Coursework: Data Structures & Algorithms, OOPs, Operating Systems, Computer Networks 
 
-WORK EXPERIENCE
+##WORK EXPERIENCE
 Concentrix 
 Software Developer
 -Backend development using Java, strictly following the SOLID principles and design patterns to produce software designs more flexible, maintainable and understandable. 
