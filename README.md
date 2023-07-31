@@ -1,5 +1,16 @@
 # DATA SCIENTIST
+
+GTA,Canada | +1 6478396615 | choprabhaviya99@gmail.com 
+
+
 ## EDUCATION
+
+### Durham College
+
+Postgraduate Certificate in Artificial Intelligence Analysis, Design & Implementation
+
+Relevant Coursework:
+Machine Learning & Algorithms, Visualisation , Neural Networks, Deep Learning
 
 ### Punjab Engineering College (Deemed to be University) 
 
@@ -29,4 +40,22 @@ Software Developer
 -Quick root cause analysis and resolution of any defects reported by the end client to achieve highest customer satisfaction 
 
 -Played a major role in solving daily challenges and fixing issues. 
+
+##  PROJECTS 
+
+### Vehicle autodriven with help of artificial neuralnetworks (VAHAN) 
+
+### Text-based bank 
+
+Arranging tax data using different sorting algorithms
+
+## SKILLS & INTERESTS 
+
+### Skills:
+
+C | C++ | Java | Python | MySQL | OOPs | Data Structures | Algorithms | HTML | CSS | DBMS 
+
+### Interests:
+
+Music, Cricket, Athletics, Gym, Teaching, Technology, FinTech 
 
