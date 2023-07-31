@@ -11,7 +11,7 @@ Data Structures & Algorithms, OOPs, Operating Systems, Computer Networks
 
 ## WORK EXPERIENCE
 
-Concentrix 
+### Concentrix 
 
 Software Developer
 
